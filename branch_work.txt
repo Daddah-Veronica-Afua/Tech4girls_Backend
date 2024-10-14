@@ -1,0 +1,17 @@
+Git branch is a git command used to manage branches in a repository
+
+Creating a branch (steps)
+List branch (git branch)
+create new branch "vero_branch" (git branch "vero_branch")
+switch branch to new (git checkout "vero_branch")
+
+To publish
+Push the branch to remote (git push origin vero_branch)
+
+Switching to GitHub
+Go to GitHub website
+login in to your account 
+Navigate to your repository
+Click on "Branches" 
+Select the "vero_branch" branch
+
