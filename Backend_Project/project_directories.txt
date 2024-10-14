@@ -1,0 +1,5 @@
+Navigate to home directory  cd ~
+create Backend_Project directory mkdir Backend_Project
+Navigate into Backend_Project cd Backend_Project
+Create subdirectories ProjectA and ProjectB mkdir  ProjectA and ProjectB (each)
+git
