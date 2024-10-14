@@ -1,0 +1,5 @@
+Home directory stores users specific directories, setting, files and conigurations for every user
+
+whereas
+
+Root directory is the parent or starting point of all directories in linux. it is the topmost directory in the file system.  

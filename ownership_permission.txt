@@ -1,0 +1,13 @@
+File Ownership is the level of access to who can access a file or directory.
+
+File modes 
+Read - View file contents (4)
+
+Write - Modify or delete file (2)
+
+Execute - Run file as a program (1)
+
+Permission types 
+Owner
+Group
+Others

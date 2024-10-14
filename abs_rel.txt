@@ -1,0 +1,11 @@
+Absolute path is a path that starts from the root directory and specifies the full path to a file or directory. It includes
+all the directories and subdirectories that lead to th file or directory.
+example 
+/home/user/document/file.txt
+
+Relative path is a path that starts from the current working directory and specifies the path relative to the current directory.
+It doesn't include the full path from the root directory.
+example 
+./document/file.txt (current irectory)
+../file.txt (parent directory)
+~/file.txt (user's home directory)

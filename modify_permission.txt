@@ -1,0 +1,15 @@
+Modify so that owner can read and write to it, while other and group can read
+
+command for modify
+chmod 644 modify_permission.txt
+
+meaning 
+read-4
+write-2
+execute-1 
+
+Owner (read + write) =6
+Group (read) = 4
+Others (read) = 4 
+
+Thersfore 644
