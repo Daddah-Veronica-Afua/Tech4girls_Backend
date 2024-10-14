@@ -1,0 +1,4 @@
+Git pull integrates changes from a remote repository into your local repository.
+It fetches latest updates from remote and also merge changes into your current branch.
+
+This can be used to resolve conflict, sync local repo with remote and collaborate with team members.
