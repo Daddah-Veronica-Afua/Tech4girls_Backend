@@ -1,0 +1,6 @@
+-rw-r--r-- 1 userhacsa userhacsa 70 oct 14 10:00 script.Screenshot
+The first r tells us it is readable and writable by the owner
+The second r tells us it is only readable by the group
+The third r tells us it is only readable by the others
+
+followed with the users name and time
