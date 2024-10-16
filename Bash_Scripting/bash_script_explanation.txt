@@ -1,0 +1,2 @@
+Bash Scripting is a series of commands saved in a file and can be executed to achieve desired results.
+Its used for automation of task
