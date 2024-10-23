@@ -1,0 +1,9 @@
+Search and click on python in the start menu
+type sudo apt install python3
+type python --version
+type python
+
+x = 2
+y = 6
+sum = x + y
+print(sum)
