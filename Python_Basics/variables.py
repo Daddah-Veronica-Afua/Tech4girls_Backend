@@ -1,5 +1,5 @@
 Name = "Daddah Veronica Afua"
-Age = 99
-City = "New York"
+Age = 95
+City = "New york"
 
-print(f"Hi, my name is {Name}. I am {Age} years old, I live in {City}.")
+print(f"Hello, my name is {Name}, i am {Age} years old and i live in {City}")

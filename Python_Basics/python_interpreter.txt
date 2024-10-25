@@ -1,9 +1,11 @@
-Search and click on python in the start menu
-type sudo apt install python3
-type python --version
-type python
+Select and click Python in the start menu
+click on Python IDLE
+sudo apt install python3
+python 3:12:3
+python3 --version
+which python3
 
-x = 2
-y = 6
-sum = x + y
+a = 7
+b = 10
+sum = a + b
 print(sum)
