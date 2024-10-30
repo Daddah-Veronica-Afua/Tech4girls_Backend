@@ -1,30 +1,39 @@
 list = ["rat", "cat", "dog", "pig", "owl"]
 print(list)
 
-print(list.append('hen'))
+list.append("hen")
+print(list)
 
-print(list.remove('rat'))
+list.remove("rat")
+print(list)
 
 pooped_list = list.pop(0)
 print(pooped_list)
 
-print(list.sort())
+list.sort()
+print(list)
 
-print(list.reverse())
+list.reverse()
+print(list)
 
-print(list.extend(('cow','ant')))
+list.extend(('cow','ant'))
+print(list)
 
 my_set = {10, 3.5, 1000.6, "5"}
-print("my_set")
+print(my_set)
 
-print(my_set.add(55))
+my_set.add(55)
+print(my_set)
 
-print(my_set.remove(1000.6))
+my_set.remove(1000.6)
+print(my_set)
 
 my_other_set = {5, 7, 2}
-print("my_other_set")
-print(my_set.union("my_other_set"))
+print(my_other_set)
+print(my_set.union(my_other_set))
 
-print(my_set.intersection("my_other_set"))
+my_set.intersection(my_other_set)
+print(my_set)
 
-print(my_set.difference("my_other_set"))
+my_set.difference(my_other_set)
+print(my_set)
