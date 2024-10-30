@@ -1,0 +1,27 @@
+int   -   Integer. A whole number, without a fraction. (7, -2.)
+
+float - float: Floating-point number. A number with a decimal point. (3.14, -0.001.)
+
+str   - String. A sequence of characters. ("hello", "123".)
+
+list - List. An ordered, mutable collection. [1, 2, 3], ["apple", "banana"].
+
+tuple - Tuple. An ordered, immutable collection. (1, 2), ("a", "b").
+
+set -  Set. An unordered collection of unique elements. {1, 2, 3}, {"apple", "banana"}.
+
+
+my_string = 'Hello World'
+upper - print.upper('my_string')
+
+lower - print.lower('my_string')
+
+replace - print.replace('Country,World')
+
+split  - my_string.split()
+print(words) 
+ 
+
+join  - print.join('I am your rescuer')
+
+find  - print.find('Hello')
