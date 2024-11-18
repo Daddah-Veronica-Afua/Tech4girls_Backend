@@ -1,0 +1,35 @@
+Object-Oriented Programming (OOP) is a programming paradigm that uses "objects" to design and build applications.
+Objects are instances of classes, which can hold attributes and methods or functions that operate on the data. 
+OOP aims to provide a clear structure for programs and make them easier to manage and maintain.
+
+Four Main Principles of OOP
+Encapsulation
+This is the principle of bundling data and methods that operate on the data within a single unit or class. 
+This hides the internal state of the object and requires all interaction to be performed through an object's methods.
+Example: Think of a class Car with private attributes like speed and fuel.
+The class provides methods to access and update these attributes without exposing the internal details.
+
+Abstraction
+Is the concept of hiding the complex implementation details and showing only the essential features of the object.
+Example: Using a TV remote control is a form of abstraction. 
+You press a button to change the channel without needing to understand the complex electronics inside the TV.
+
+Inheritance
+Allows a class to inherit attributes and methods from another class, promoting code reusability.
+Example:A class ElectricCar might inherit from a more general class Car, gaining its attributes and methods while adding new features like battery_capacity.
+
+Polymorphism
+It allows methods to do different things based on the object it is acting upon, even though they share the same name.
+Example: The method draw() might be implemented differently in classes Circle and Rectangle, but you can call draw() on any shape and the correct method will be executed.
+
+Benefits of OOP for Software Development
+It helps software developers make Codes organized in discrete objects that can be developed and tested independently (For modularity).
+Also It's reusability helps reduce redundancy, maintenance and for scalability, OOP makes it easier to maintain and scale as the software grows.
+ 
+Real-world examples is the Banking System
+Classes like Account, Customer, and Transaction can represent real-world entities.
+The Customer class can inherit from a person class, and methods can handle different types of transactions (polymorphism).
+
+Also Gaming, Objects in games (e.g., Player, Enemy, Obstacle) can inherit from a base class GameObject and implement behaviors like move and attack.
+
+
