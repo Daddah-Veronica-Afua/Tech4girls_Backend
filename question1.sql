@@ -1,5 +1,5 @@
 -- Create the database
--- Setting Up aand Populating a Database 
+-- Setting Up and Populating a Database 
 CREATE DATABASE Tech4Girls_DB;
 
 -- Use the database
