@@ -1,0 +1,8 @@
+String representation
+r w x
+
+r - Read permissions
+
+w - Write permissions
+
+x - Execute permissions
